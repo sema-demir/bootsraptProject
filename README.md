@@ -33,4 +33,4 @@ Projeyi kendi bilgisayarınıza klonlamak için aşağıdaki adımları izleyebi
 ## Katkıda Bulunma
 
 Eğer bu projeye katkıda bulunmak istiyorsanız, lütfen fork edip pull request gönderin. Yapıcı eleştiriler ve geliştirmeler her zaman hoş karşılanmaktadır.
-
+![](boostraptProject.gif)
