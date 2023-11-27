@@ -1,0 +1,49 @@
+.img-slider{
+    height: 600px;
+}
+body{
+    font-family: 'Raleway', sans-serif;
+    padding: 0px;
+}
+.navbar-brand{
+    font-weight: 700;
+    font-size: large;
+}
+.navbar-brand-col{
+    color: chocolate;
+    font-weight: 700;
+}
+.hakkimizda{
+    background-color: #f2f2f2;
+}
+.line{
+    border: none;
+    border-top: 3px solid #343a40;
+    max-width: 250px;
+    margin: 25px auto;
+}
+.ibeyaz{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid white;
+    background-color: white;
+}
+.igri{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+.card-item >img:hover{
+    opacity: .8;
+}
+.galeri{
+    background-color: #f2f2f2;    
+}
+.figure:hover{
+    opacity: .8;
+}
